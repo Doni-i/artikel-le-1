@@ -1,6 +1,6 @@
 ---
 title: "Nyobain Toco: Aplikasi Jual Beli Baru yang Katanya Bebas Potongan Admin"
-date: 2025-11-28T10:00:00+07:00
+date: 2025-10-20T10:00:00+07:00
 draft: false
 tags: ["Review Aplikasi", "E-Commerce", "Tugas Kuliah"]
 categories: ["Review"]
