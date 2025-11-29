@@ -1,6 +1,6 @@
-baseURL = "https://artikel-le-1.vercel.app/" # We will update this after Vercel deployment
+baseURL = "https://artikel-le-1.vercel.app/"
 languageCode = "id-id"
-title = "Tofu Systems"
+title = "Selamat Datang di Artikel Milik Saya Hehehe"
 theme = "PaperMod"
 
 [params]
@@ -13,10 +13,8 @@ theme = "PaperMod"
   
   [params.profileMode]
     enabled = true
-    title = "Tofu Systems"
+    title = "Artikel Hihihi"
     subtitle = "Analysis & Engineering Portfolio"
-    # If you want a picture, put 'avatar.jpg' in the 'static' folder and uncomment below
-    # imageUrl = "avatar.jpg"
     
 [menu]
   [[menu.main]]

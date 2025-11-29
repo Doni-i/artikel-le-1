@@ -4,7 +4,7 @@ date: 2025-11-28T10:00:00+07:00
 draft: false
 tags: ["Review Aplikasi", "E-Commerce", "Tugas Kuliah"]
 categories: ["Review"]
-author: "Tofu"
+author: "Doni Setiawan"
 cover:
     image: "/images/Screenshot_20251129-083156.png"
     alt: "Halaman Depan Toco"
